@@ -1,0 +1,20 @@
+# MySQL + Redis for running the backend with its default profile.
+# Start with: docker compose up -d   (then run the backend without the dev profile)
+services:
+  mysql:
+    image: mysql:8.4
+    environment:
+      MYSQL_ROOT_PASSWORD: aishop
+      MYSQL_DATABASE: aishop
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+  redis:
+    image: redis:7.4-alpine
+    ports:
+      - "6379:6379"
+
+volumes:
+  mysql-data:

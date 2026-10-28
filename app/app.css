@@ -1,0 +1,46 @@
+@import "tailwindcss" source(".");
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  /* Voice assistant orb on the home page */
+  --animate-orb-spin: orb-spin 9s linear infinite;
+  --animate-orb-spin-reverse: orb-spin 6s linear infinite reverse;
+  --animate-orb-breathe: orb-breathe 4s ease-in-out infinite;
+  --animate-orb-ripple: orb-ripple 1.6s ease-out infinite;
+
+  @keyframes orb-spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  @keyframes orb-breathe {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.06);
+    }
+  }
+  @keyframes orb-ripple {
+    from {
+      transform: scale(1);
+      opacity: 0.6;
+    }
+    to {
+      transform: scale(1.7);
+      opacity: 0;
+    }
+  }
+}
+
+html,
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+/* Reserve the scrollbar's space so pages don't shift sideways when content height changes. */
+html {
+  scrollbar-gutter: stable;
+}

@@ -1,0 +1,732 @@
+[
+ {
+  "name": "Essence Mascara Lash Princess",
+  "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+  "category": "Beauty",
+  "price": 849,
+  "rating": 2.6,
+  "stock": 99,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+  "tags": "beauty,mascara"
+ },
+ {
+  "name": "Eyeshadow Palette with Mirror",
+  "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+  "category": "Beauty",
+  "price": 1699,
+  "rating": 2.9,
+  "stock": 34,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp",
+  "tags": "beauty,eyeshadow"
+ },
+ {
+  "name": "Powder Canister",
+  "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+  "category": "Beauty",
+  "price": 1269,
+  "rating": 4.6,
+  "stock": 89,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp",
+  "tags": "beauty,face powder"
+ },
+ {
+  "name": "Calvin Klein CK One",
+  "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+  "category": "Beauty",
+  "price": 4249,
+  "rating": 4.4,
+  "stock": 29,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+  "tags": "fragrances,perfumes"
+ },
+ {
+  "name": "Chanel Coco Noir Eau De",
+  "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+  "category": "Beauty",
+  "price": 11049,
+  "rating": 4.3,
+  "stock": 58,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+  "tags": "fragrances,perfumes"
+ },
+ {
+  "name": "Dior J'adore",
+  "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+  "category": "Beauty",
+  "price": 7649,
+  "rating": 3.8,
+  "stock": 98,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+  "tags": "fragrances,perfumes"
+ },
+ {
+  "name": "Annibale Colombo Bed",
+  "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+  "category": "Home",
+  "price": 161499,
+  "rating": 4.8,
+  "stock": 88,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+  "tags": "furniture,beds"
+ },
+ {
+  "name": "Annibale Colombo Sofa",
+  "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+  "category": "Home",
+  "price": 212499,
+  "rating": 3.9,
+  "stock": 60,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+  "tags": "furniture,sofas"
+ },
+ {
+  "name": "Bedside Table African Cherry",
+  "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+  "category": "Home",
+  "price": 25499,
+  "rating": 2.9,
+  "stock": 64,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+  "tags": "furniture,bedside tables"
+ },
+ {
+  "name": "Decoration Swing",
+  "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+  "category": "Home",
+  "price": 5099,
+  "rating": 3.2,
+  "stock": 47,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/1.webp",
+  "tags": "home decor,swing"
+ },
+ {
+  "name": "Family Tree Photo Frame",
+  "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+  "category": "Home",
+  "price": 2549,
+  "rating": 4.5,
+  "stock": 77,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/1.webp",
+  "tags": "home decor,photo frame"
+ },
+ {
+  "name": "House Showpiece Plant",
+  "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+  "category": "Home",
+  "price": 3399,
+  "rating": 4.7,
+  "stock": 28,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+  "tags": "home decor,artificial plants"
+ },
+ {
+  "name": "Bamboo Spatula",
+  "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+  "category": "Kitchen",
+  "price": 679,
+  "rating": 3.3,
+  "stock": 37,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/1.webp",
+  "tags": "kitchen tools,utensils"
+ },
+ {
+  "name": "Black Aluminium Cup",
+  "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+  "category": "Kitchen",
+  "price": 509,
+  "rating": 4.5,
+  "stock": 75,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/1.webp",
+  "tags": "drinkware,cups"
+ },
+ {
+  "name": "Black Whisk",
+  "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+  "category": "Kitchen",
+  "price": 849,
+  "rating": 3.9,
+  "stock": 73,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp",
+  "tags": "kitchen tools,utensils"
+ },
+ {
+  "name": "Boxed Blender",
+  "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+  "category": "Kitchen",
+  "price": 3399,
+  "rating": 4.6,
+  "stock": 9,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+  "tags": "kitchen appliances,blenders"
+ },
+ {
+  "name": "Carbon Steel Wok",
+  "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautÃ©ing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+  "category": "Kitchen",
+  "price": 2549,
+  "rating": 4.0,
+  "stock": 40,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/1.webp",
+  "tags": "cookware,woks"
+ },
+ {
+  "name": "Apple MacBook Pro 14 Inch Space Grey",
+  "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+  "category": "Laptops",
+  "price": 169999,
+  "rating": 3.6,
+  "stock": 24,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+  "tags": "laptops,apple"
+ },
+ {
+  "name": "Asus Zenbook Pro Dual Screen Laptop",
+  "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+  "category": "Laptops",
+  "price": 152999,
+  "rating": 4.0,
+  "stock": 45,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/1.webp",
+  "tags": "laptops"
+ },
+ {
+  "name": "Huawei Matebook X Pro",
+  "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+  "category": "Laptops",
+  "price": 118999,
+  "rating": 5.0,
+  "stock": 75,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+  "tags": "laptops"
+ },
+ {
+  "name": "Lenovo Yoga 920",
+  "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+  "category": "Laptops",
+  "price": 93499,
+  "rating": 2.9,
+  "stock": 40,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/1.webp",
+  "tags": "laptops"
+ },
+ {
+  "name": "New DELL XPS 13 9300 Laptop",
+  "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+  "category": "Laptops",
+  "price": 127499,
+  "rating": 2.7,
+  "stock": 74,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+  "tags": "laptops"
+ },
+ {
+  "name": "Blue & Black Check Shirt",
+  "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+  "category": "Fashion",
+  "price": 2549,
+  "rating": 3.6,
+  "stock": 38,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/1.webp",
+  "tags": "clothing,men's shirts"
+ },
+ {
+  "name": "Gigabyte Aorus Men Tshirt",
+  "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+  "category": "Fashion",
+  "price": 2119,
+  "rating": 3.2,
+  "stock": 90,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
+  "tags": "clothing,men's t-shirts"
+ },
+ {
+  "name": "Man Plaid Shirt",
+  "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+  "category": "Fashion",
+  "price": 2969,
+  "rating": 3.5,
+  "stock": 82,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/1.webp",
+  "tags": "clothing,men's shirts"
+ },
+ {
+  "name": "Nike Air Jordan 1 Red And Black",
+  "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+  "category": "Footwear",
+  "price": 12749,
+  "rating": 4.8,
+  "stock": 7,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+  "tags": "footwear,athletic shoes"
+ },
+ {
+  "name": "Nike Baseball Cleats",
+  "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+  "category": "Footwear",
+  "price": 6799,
+  "rating": 3.9,
+  "stock": 12,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/1.webp",
+  "tags": "footwear,sports cleats"
+ },
+ {
+  "name": "Puma Future Rider Trainers",
+  "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+  "category": "Footwear",
+  "price": 7649,
+  "rating": 4.9,
+  "stock": 90,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+  "tags": "footwear,casual shoes"
+ },
+ {
+  "name": "Brown Leather Belt Watch",
+  "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+  "category": "Watches",
+  "price": 7649,
+  "rating": 4.2,
+  "stock": 32,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+  "tags": "watches,leather watches"
+ },
+ {
+  "name": "Longines Master Collection",
+  "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+  "category": "Watches",
+  "price": 127499,
+  "rating": 3.9,
+  "stock": 100,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+  "tags": "watches,luxury watches"
+ },
+ {
+  "name": "Rolex Cellini Date Black Dial",
+  "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+  "category": "Watches",
+  "price": 764999,
+  "rating": 5.0,
+  "stock": 40,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+  "tags": "watches,luxury watches"
+ },
+ {
+  "name": "Amazon Echo Plus",
+  "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+  "category": "Accessories",
+  "price": 8499,
+  "rating": 5.0,
+  "stock": 61,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+  "tags": "electronics,smart speakers"
+ },
+ {
+  "name": "Apple Airpods",
+  "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+  "category": "Accessories",
+  "price": 11049,
+  "rating": 4.2,
+  "stock": 67,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+  "tags": "electronics,wireless earphones"
+ },
+ {
+  "name": "Apple AirPods Max Silver",
+  "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+  "category": "Accessories",
+  "price": 46749,
+  "rating": 3.5,
+  "stock": 59,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
+  "tags": "electronics,over-ear headphones"
+ },
+ {
+  "name": "Apple Airpower Wireless Charger",
+  "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+  "category": "Accessories",
+  "price": 6799,
+  "rating": 3.7,
+  "stock": 5,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/1.webp",
+  "tags": "electronics,wireless chargers"
+ },
+ {
+  "name": "Apple HomePod Mini Cosmic Grey",
+  "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+  "category": "Accessories",
+  "price": 8499,
+  "rating": 4.6,
+  "stock": 27,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp",
+  "tags": "electronics,smart speakers"
+ },
+ {
+  "name": "Attitude Super Leaves Hand Soap",
+  "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+  "category": "Beauty",
+  "price": 759,
+  "rating": 3.2,
+  "stock": 94,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+  "tags": "personal care,hand soap"
+ },
+ {
+  "name": "Olay Ultra Moisture Shea Butter Body Wash",
+  "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+  "category": "Beauty",
+  "price": 1099,
+  "rating": 4.5,
+  "stock": 34,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
+  "tags": "personal care,body wash"
+ },
+ {
+  "name": "Vaseline Men Body and Face Lotion",
+  "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+  "category": "Beauty",
+  "price": 849,
+  "rating": 3.2,
+  "stock": 95,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
+  "tags": "personal care,body lotion"
+ },
+ {
+  "name": "iPhone 5s",
+  "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+  "category": "Smartphones",
+  "price": 16999,
+  "rating": 2.8,
+  "stock": 25,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-5s/1.webp",
+  "tags": "smartphones,apple"
+ },
+ {
+  "name": "iPhone 6",
+  "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+  "category": "Smartphones",
+  "price": 25499,
+  "rating": 3.4,
+  "stock": 60,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/1.webp",
+  "tags": "smartphones,apple"
+ },
+ {
+  "name": "iPhone 13 Pro",
+  "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+  "category": "Smartphones",
+  "price": 93499,
+  "rating": 4.1,
+  "stock": 56,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+  "tags": "smartphones,apple"
+ },
+ {
+  "name": "iPhone X",
+  "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+  "category": "Smartphones",
+  "price": 76499,
+  "rating": 2.5,
+  "stock": 37,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/1.webp",
+  "tags": "smartphones,apple"
+ },
+ {
+  "name": "Oppo A57",
+  "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+  "category": "Smartphones",
+  "price": 21249,
+  "rating": 3.9,
+  "stock": 19,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/smartphones/oppo-a57/1.webp",
+  "tags": "smartphones,oppo"
+ },
+ {
+  "name": "American Football",
+  "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+  "category": "Sports",
+  "price": 1699,
+  "rating": 4.9,
+  "stock": 53,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp",
+  "tags": "sports equipment,american football"
+ },
+ {
+  "name": "Baseball Ball",
+  "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+  "category": "Sports",
+  "price": 759,
+  "rating": 2.6,
+  "stock": 100,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/1.webp",
+  "tags": "sports equipment,baseball"
+ },
+ {
+  "name": "Baseball Glove",
+  "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+  "category": "Sports",
+  "price": 2119,
+  "rating": 4.0,
+  "stock": 22,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/1.webp",
+  "tags": "sports equipment,baseball"
+ },
+ {
+  "name": "Basketball",
+  "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+  "category": "Sports",
+  "price": 1269,
+  "rating": 4.7,
+  "stock": 75,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp",
+  "tags": "sports equipment,basketball"
+ },
+ {
+  "name": "Basketball Rim",
+  "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+  "category": "Sports",
+  "price": 3399,
+  "rating": 4.6,
+  "stock": 43,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp",
+  "tags": "sports equipment,basketball"
+ },
+ {
+  "name": "Black Sun Glasses",
+  "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+  "category": "Fashion",
+  "price": 2549,
+  "rating": 4.4,
+  "stock": 60,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+  "tags": "eyewear,sunglasses"
+ },
+ {
+  "name": "Classic Sun Glasses",
+  "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+  "category": "Fashion",
+  "price": 2119,
+  "rating": 3.9,
+  "stock": 5,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+  "tags": "eyewear,sunglasses"
+ },
+ {
+  "name": "Green and Black Glasses",
+  "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+  "category": "Fashion",
+  "price": 2969,
+  "rating": 4.5,
+  "stock": 24,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp",
+  "tags": "eyewear,sunglasses"
+ },
+ {
+  "name": "iPad Mini 2021 Starlight",
+  "description": "The iPad Mini 2021 in Starlight is a compact and powerful tablet from Apple. Featuring a stunning Retina display, powerful A-series chip, and a sleek design, it offers a premium tablet experience.",
+  "category": "Tablets",
+  "price": 42499,
+  "rating": 3.2,
+  "stock": 47,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/1.webp",
+  "tags": "electronics,tablets"
+ },
+ {
+  "name": "Samsung Galaxy Tab S8 Plus Grey",
+  "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+  "category": "Tablets",
+  "price": 50999,
+  "rating": 4.7,
+  "stock": 62,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+  "tags": "electronics,tablets"
+ },
+ {
+  "name": "Samsung Galaxy Tab White",
+  "description": "The Samsung Galaxy Tab in White is a sleek and versatile Android tablet. With a vibrant display, long-lasting battery, and a range of features, it offers a great user experience for various tasks.",
+  "category": "Tablets",
+  "price": 29749,
+  "rating": 3.7,
+  "stock": 92,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/1.webp",
+  "tags": "electronics,tablets"
+ },
+ {
+  "name": "Blue Frock",
+  "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+  "category": "Fashion",
+  "price": 2549,
+  "rating": 4.2,
+  "stock": 52,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+  "tags": "clothing,dresses"
+ },
+ {
+  "name": "Girl Summer Dress",
+  "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+  "category": "Fashion",
+  "price": 1699,
+  "rating": 4.8,
+  "stock": 43,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp",
+  "tags": "clothing,girls' dresses"
+ },
+ {
+  "name": "Gray Dress",
+  "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+  "category": "Fashion",
+  "price": 2969,
+  "rating": 2.7,
+  "stock": 55,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/tops/gray-dress/1.webp",
+  "tags": "clothing,dresses"
+ },
+ {
+  "name": "Blue Women's Handbag",
+  "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+  "category": "Fashion",
+  "price": 4249,
+  "rating": 2.9,
+  "stock": 76,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/1.webp",
+  "tags": "fashion accessories,handbags"
+ },
+ {
+  "name": "Heshe Women's Leather Bag",
+  "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+  "category": "Fashion",
+  "price": 11049,
+  "rating": 4.9,
+  "stock": 99,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp",
+  "tags": "fashion accessories,leather bags"
+ },
+ {
+  "name": "Prada Women Bag",
+  "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+  "category": "Fashion",
+  "price": 50999,
+  "rating": 2.7,
+  "stock": 75,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/1.webp",
+  "tags": "fashion accessories,designer bags"
+ },
+ {
+  "name": "Black Women's Gown",
+  "description": "The Black Women's Gown is an elegant and timeless evening gown. With a sleek black design, it's perfect for formal events and special occasions, exuding sophistication and style.",
+  "category": "Fashion",
+  "price": 11049,
+  "rating": 3.6,
+  "stock": 25,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/black-women's-gown/1.webp",
+  "tags": "clothing,gowns"
+ },
+ {
+  "name": "Corset Leather With Skirt",
+  "description": "The Corset Leather With Skirt is a bold and edgy ensemble that combines a stylish corset with a matching skirt. Ideal for fashion-forward individuals, it makes a statement at any event.",
+  "category": "Fashion",
+  "price": 7649,
+  "rating": 3.0,
+  "stock": 30,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-leather-with-skirt/1.webp",
+  "tags": "clothing,corsets,skirts"
+ },
+ {
+  "name": "Corset With Black Skirt",
+  "description": "The Corset With Black Skirt is a chic and versatile outfit that pairs a fashionable corset with a classic black skirt. It offers a trendy and coordinated look for various occasions.",
+  "category": "Fashion",
+  "price": 6799,
+  "rating": 4.5,
+  "stock": 33,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp",
+  "tags": "clothing,corsets,skirts"
+ },
+ {
+  "name": "Green Crystal Earring",
+  "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+  "category": "Fashion",
+  "price": 2549,
+  "rating": 4.0,
+  "stock": 54,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+  "tags": "fashion accessories,earrings"
+ },
+ {
+  "name": "Green Oval Earring",
+  "description": "The Green Oval Earring is a stylish and versatile accessory with a unique oval shape. Whether for casual or dressy occasions, its green hue and contemporary design make it a standout piece.",
+  "category": "Fashion",
+  "price": 2119,
+  "rating": 3.6,
+  "stock": 73,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-oval-earring/1.webp",
+  "tags": "fashion accessories,earrings"
+ },
+ {
+  "name": "Tropical Earring",
+  "description": "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+  "category": "Fashion",
+  "price": 1699,
+  "rating": 4.4,
+  "stock": 5,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp",
+  "tags": "fashion accessories,earrings"
+ },
+ {
+  "name": "Black & Brown Slipper",
+  "description": "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+  "category": "Footwear",
+  "price": 1699,
+  "rating": 2.5,
+  "stock": 5,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/black-&-brown-slipper/1.webp",
+  "tags": "footwear,slippers"
+ },
+ {
+  "name": "Calvin Klein Heel Shoes",
+  "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+  "category": "Footwear",
+  "price": 6799,
+  "rating": 4.9,
+  "stock": 93,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+  "tags": "footwear,heel shoes"
+ },
+ {
+  "name": "Golden Shoes Woman",
+  "description": "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+  "category": "Footwear",
+  "price": 4249,
+  "rating": 3.3,
+  "stock": 88,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-shoes/golden-shoes-woman/1.webp",
+  "tags": "footwear,women's shoes"
+ },
+ {
+  "name": "IWC Ingenieur Automatic Steel",
+  "description": "The IWC Ingenieur Automatic Steel watch is a durable and sophisticated timepiece. With a stainless steel case and automatic movement, it combines precision and style for watch enthusiasts.",
+  "category": "Watches",
+  "price": 424999,
+  "rating": 2.9,
+  "stock": 90,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/iwc-ingenieur-automatic-steel/1.webp",
+  "tags": "watches,luxury watches"
+ },
+ {
+  "name": "Rolex Cellini Moonphase",
+  "description": "The Rolex Cellini Moonphase watch is a masterpiece of horology. Featuring a moon phase complication, it showcases the craftsmanship and elegance that Rolex is renowned for.",
+  "category": "Watches",
+  "price": 1359999,
+  "rating": 3.8,
+  "stock": 52,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-cellini-moonphase/1.webp",
+  "tags": "watches,luxury watches"
+ },
+ {
+  "name": "Rolex Datejust Women",
+  "description": "The Rolex Datejust Women's watch is an iconic timepiece designed for women. With a timeless design and a date complication, it offers both elegance and functionality.",
+  "category": "Watches",
+  "price": 934999,
+  "rating": 2.9,
+  "stock": 5,
+  "imageUrl": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/1.webp",
+  "tags": "watches,luxury watches,women's watches"
+ }
+]

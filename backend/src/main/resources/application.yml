@@ -1,0 +1,100 @@
+# Default profile: MySQL + Redis. Every value can be overridden with the environment variable shown,
+# or set in backend/.env (copy .env.example). The .env file is optional and git-ignored.
+spring:
+  config:
+    import: optional:file:.env[.properties]
+  application:
+    name: ai-shop-backend
+  datasource:
+    url: ${DB_URL:jdbc:mysql://localhost:3306/aishop?createDatabaseIfNotExist=true&serverTimezone=UTC}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+      password: ${REDIS_PASSWORD:}
+      timeout: 2s
+  cache:
+    type: redis
+
+server:
+  port: ${PORT:8080}
+  forward-headers-strategy: framework # trust X-Forwarded-* from the Cloudflare edge
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+
+app:
+  jwt:
+    # Base64 key of at least 256 bits. Override JWT_SECRET in any shared or deployed environment.
+    secret: ${JWT_SECRET:YGcst3L/YnxaDuE6Y68Ye4X2N5xaMe/66aoP6vw7bLVACIK94CC5bdqwZjEWcpAs}
+    expiration: ${JWT_EXPIRATION:24h}
+  cors:
+    allowed-origins: ${CORS_ORIGINS:http://localhost:5173}
+  razorpay:
+    key-id: ${RAZORPAY_KEY_ID:}
+    key-secret: ${RAZORPAY_KEY_SECRET:}
+    webhook-secret: ${RAZORPAY_WEBHOOK_SECRET:}
+    currency: INR
+    # true = simulated payments (no Razorpay account needed). Set RAZORPAY_MOCK=false with real test keys.
+    mock: ${RAZORPAY_MOCK:true}
+  openai:
+    # Leave empty to use the built-in recommendation scorer instead of OpenAI.
+    api-key: ${OPENAI_API_KEY:}
+    model: ${OPENAI_MODEL:gpt-4o-mini}
+    base-url: ${OPENAI_BASE_URL:https://api.openai.com/v1}
+    timeout: 20s
+  admin:
+    name: Store Admin
+    email: ${ADMIN_EMAIL:admin@aishop.dev}
+    password: ${ADMIN_PASSWORD:Admin@12345}
+  store:
+    name: Curato
+    address: 42 MG Road, Bengaluru, Karnataka 560001, India
+    gstin: 29ABCDE1234F1Z5
+    support-email: support@curato.dev
+
+---
+# MySQL without Redis: the real database from DB_URL / .env, with an in-memory cache.
+# Run with: ./mvnw spring-boot:run -Dspring-boot.run.profiles=local
+spring:
+  config:
+    activate:
+      on-profile: local
+  cache:
+    type: simple
+
+management:
+  health:
+    redis:
+      enabled: false
+
+---
+# Zero-setup local profile: embedded H2 database and in-memory cache (no MySQL or Redis needed).
+# Run with: ./mvnw spring-boot:run -Dspring-boot.run.profiles=dev
+spring:
+  config:
+    activate:
+      on-profile: dev
+  datasource:
+    url: jdbc:h2:file:./data/aishop;MODE=MySQL;DATABASE_TO_LOWER=TRUE;AUTO_SERVER=TRUE
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+  cache:
+    type: simple
+
+management:
+  health:
+    redis:
+      enabled: false
